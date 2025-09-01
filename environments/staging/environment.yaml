@@ -61,13 +61,13 @@ app:
       value: some_system_property_value
 
   # Enable a public endpoint for the application. If not set, the application
-  # is only available on an internal endpoint accessible to other applications
+  # is only available on an internal endpoint accessible to other applications  
   # within a subscription.
   endpoints: public
 
   services:
     - servicename: com.amazonaws.vpce.us-east-1.vpce-svc-0b45e222d19c556ef
-
+# Values.observability.cloudwatch.logGroup
   observability:
     cloudwatch:
       arn: arn:aws:iam::282782922504:role/MCSP_T_G_SSRE_easej_serviceRole_clodwatchCrossAccount2
