@@ -12,7 +12,7 @@ app:
   # "Deploy, and run" scenario.
  # maven:
  #   groupId: arturdzm
- #   artifactId: net-test
+ #   artifactId: net-test  
  #   version: 1.0
  #   type: war
 
