@@ -66,7 +66,7 @@ app:
   endpoints: public
 
   services:
-    - servicename: com.amazonaws.vpce.us-east-1.vpce-svc-0b45e222d19c556ef
+    - servicename: com.amazonaws.vpce.us-east-1.vpce-svc-09901713ab317ecfa
 # Values.observability.cloudwatch.logGroup
   observability:
     cloudwatch:
